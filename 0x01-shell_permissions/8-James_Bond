@@ -1,2 +1,2 @@
 #!/bin/bash
-chmid 007 hello
+chmod 007 helloo
